@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <name>slime</name>
+    <maxHp>10</maxHp>
+    <damage>5</damage>
+  </row>
+  <row>
+    <name>skeleton</name>
+    <maxHp>15</maxHp>
+    <damage>10</damage>
+  </row>
+  <row>
+    <name>dragon</name>
+    <maxHp>60</maxHp>
+    <damage>25</damage>  
+  </row>
+  <row>
+    <name>grolem</name>
+    <maxHp>40</maxHp>
+    <damage>20</damage>
+  </row>
+</rows>
